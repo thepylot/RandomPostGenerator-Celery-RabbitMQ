@@ -10,7 +10,7 @@ Install dependencies:
 ```
 python3 -m pip3 install -r requirements.txt
 ```
-Clone the project and run following commands:
+and run following commands:
 
 ```
 python3 manage.py makemigrations posts
