@@ -10,6 +10,11 @@ Install dependencies:
 ```
 python3 -m pip3 install -r requirements.txt
 ```
+start Celery worker:
+
+```
+celery -A randompostgenerator worker -l info
+```
 and run following commands:
 
 ```
