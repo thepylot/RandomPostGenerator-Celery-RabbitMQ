@@ -5,6 +5,11 @@ Random Post Generator App with Django using Celery &amp; RabbitMQ
 
 This tutorial works on **Python 3+** and Django 2+.
 
+Install dependencies:
+
+```
+python3 -m pip3 install -r requirements.txt
+```
 Clone the project and run following commands:
 
 ```
